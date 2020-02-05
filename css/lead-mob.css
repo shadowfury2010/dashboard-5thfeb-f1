@@ -118,7 +118,7 @@
 
 .nav-top .main-logo-m img {
     height: 3.5rem;
-    padding-right: 2rem;
+    padding-right: 4rem;
 }
 
 .nav-top .open-nav-btn {
@@ -418,7 +418,7 @@ form.example input[type=text] {
 }
 
 .lead-details-mobile {
-    background-color: #6cabec;
+    background-color: #fff;
 }
 
 .lead-no-mobile,
@@ -430,7 +430,7 @@ form.example input[type=text] {
     margin: 5px;
     padding: 1rem;
     border-radius: 15px;
-    color: white;
+    color: black;
     font-size: 12px;
 
 }
